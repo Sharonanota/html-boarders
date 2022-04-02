@@ -1,0 +1,32 @@
+.container1{
+    border: solid black 10px ;
+     height: 500px;
+     width: 500px;
+    
+    padding:50px 50px;
+    
+    
+
+    
+    
+    
+    
+}
+.container1 .container2{
+    height: 300px;
+    width: 300px;
+    border: solid black 8px  ;
+    outline: solid black 2px;
+    padding: 20% 20px;
+    margin-right: -90%;
+    
+}
+.container1 .container2 .container3{
+    height: 200px;
+    width: 200px;
+    border: solid black 3px ;
+    outline: solid black 2px;
+    padding: 8% 5%;
+    margin-right: 5% 5%;
+    border-spacing: 20%;
+}
